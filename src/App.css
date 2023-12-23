@@ -80,7 +80,7 @@
 }
 
 .cubecontainer:hover {
-  scale: 120%;
+  scale: 100%;
 }
 
 .cubecontainer:hover .top {
